@@ -6,3 +6,6 @@ window 1 Anagram Staking        slots 462524940-462524943 sent=12 mode=live
 window 2 Anagram Staking        slots 462525036-462525039 sent=12 mode=live
 window 3 Anagram Staking        slots 462525588-462525591 sent=12 mode=live
 window 4 Anagram Staking        slots 462525772-462525775 sent=12 mode=live
+window 5 Anagram Staking        slots 462525788-462525791 sent=12 mode=live
+resolve() failed (data kept, run reconcile.py): AttributeError("'NoneType' object has no attribute 'startswith'")
+evidence -> /root/solana_txo/evidence/run_20261028T151823Z_live.json  (72 records)

@@ -4881,6 +4881,198 @@
    "target_client": "Rakurai",
    "target_version_lot": "4.3.2",
    "projected_fee_lamports": 15000
+  },
+  {
+   "sig": "9cDVptCMFy1qHEEguR3gkXaMDL4ynCxS2R2UrmcqHT4eSBwMr8qMniaWYwqzvct99GY3fMYgDQR3RHERa7yQuGv",
+   "tier": "low",
+   "window_pos": "start",
+   "send_index": 0,
+   "sent_unix_ms": 1793201052722,
+   "observed_slot_when_sending": 462525794,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 5020
+  },
+  {
+   "sig": "4trZ9Ez6GRViXrvqNSm4LSNXigeDhrP5s4E42v7m7QQTsH3uEWcNNEuoKhxPTsVjSjGSRtDmY31ACA4ZNyq8Lx78",
+   "tier": "mid",
+   "window_pos": "start",
+   "send_index": 1,
+   "sent_unix_ms": 1793201052816,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 6000
+  },
+  {
+   "sig": null,
+   "tier": "high",
+   "window_pos": "start",
+   "send_index": 2,
+   "sent_unix_ms": 1793201054434,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 15000
+  },
+  {
+   "sig": null,
+   "tier": "low",
+   "window_pos": "late",
+   "send_index": 3,
+   "sent_unix_ms": 1793201056057,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 5020
+  },
+  {
+   "sig": null,
+   "tier": "mid",
+   "window_pos": "late",
+   "send_index": 4,
+   "sent_unix_ms": 1793201057678,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 6000
+  },
+  {
+   "sig": null,
+   "tier": "high",
+   "window_pos": "late",
+   "send_index": 5,
+   "sent_unix_ms": 1793201059301,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 15000
+  },
+  {
+   "sig": null,
+   "tier": "low",
+   "window_pos": "start",
+   "send_index": 6,
+   "sent_unix_ms": 1793201060928,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 5020
+  },
+  {
+   "sig": null,
+   "tier": "mid",
+   "window_pos": "start",
+   "send_index": 7,
+   "sent_unix_ms": 1793201062551,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 6000
+  },
+  {
+   "sig": "oKxqmBBqGu18vNRF4o9hG6iynP45JMYqZq6MCgBXsSwUW2hDMsfJYjD9x2FUSPUbbCfDY4hxTzMg6SR1Q3MtBLY",
+   "tier": "high",
+   "window_pos": "start",
+   "send_index": 8,
+   "sent_unix_ms": 1793201062670,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 15000
+  },
+  {
+   "sig": "qX7ka8eEKGGieGyo2UTXmjn3vx8Uq8eBcHFkwToeX8JJyxt6dBfWAyKqSpDBkFc3yMRHjeEjFQ1E6eA62SzFHS4",
+   "tier": "low",
+   "window_pos": "late",
+   "send_index": 9,
+   "sent_unix_ms": 1793201062760,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 5020
+  },
+  {
+   "sig": "2KQry7SN7WJiLzNWA7vQ9tY4LKdASS8ZXoP1jjWMiW8tnA1bvMRBNPLdaSRruMFTrruES4FSUWbiqyHs1jNzCtNx",
+   "tier": "mid",
+   "window_pos": "late",
+   "send_index": 10,
+   "sent_unix_ms": 1793201062852,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 6000
+  },
+  {
+   "sig": null,
+   "tier": "high",
+   "window_pos": "late",
+   "send_index": 11,
+   "sent_unix_ms": 1793201064463,
+   "observed_slot_when_sending": 462525787,
+   "target_slot_window": [
+    462525788,
+    462525791
+   ],
+   "target_identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+   "target_client": "Rakurai",
+   "target_version_lot": "4.3.2",
+   "projected_fee_lamports": 15000
   }
  ]
 }
