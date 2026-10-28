@@ -1,0 +1,7 @@
+client,n_landed,n_blocks,index_min,index_max,percentile_median,pct_median_low,pct_median_mid,pct_median_high,spearman_sendorder_vs_index_same_block
+AgaveBam,28,22,21,655,0.5521,0.4966,0.789,0.5668,
+Firedancer,38,20,4,627,0.5013,0.6837,0.3183,0.6113,0.8293
+HarmonicAgave,46,30,8,447,0.4932,0.2864,0.6045,0.4932,0.5
+HarmonicFiredancer,20,12,15,860,0.4533,0.3664,0.7238,0.4496,0.4781
+JitoLabs,32,25,0,838,0.5213,0.5213,0.4608,0.6463,
+Rakurai,3,2,23,305,0.1563,0.054,0.716,0.1563,

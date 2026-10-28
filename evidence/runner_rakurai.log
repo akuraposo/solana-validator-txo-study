@@ -1,0 +1,8 @@
+pubkey=5o3F52i3TAmNzHzYEZEtcrznKVTSWyN5FiMQBd4VPtzL mode=LIVE cap=0.05 SOL
+epoch=1070 slot=462524167 targets: 149 windows in next 4320 slots
+planned windows: 6
+window 0 Anagram Staking        slots 462524312-462524315 sent=12 mode=live
+window 1 Anagram Staking        slots 462524940-462524943 sent=12 mode=live
+window 2 Anagram Staking        slots 462525036-462525039 sent=12 mode=live
+window 3 Anagram Staking        slots 462525588-462525591 sent=12 mode=live
+window 4 Anagram Staking        slots 462525772-462525775 sent=12 mode=live

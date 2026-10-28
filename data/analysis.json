@@ -1,0 +1,92 @@
+{
+ "AgaveBam": {
+  "n_landed": 28,
+  "n_blocks": 22,
+  "index_min": 21,
+  "index_max": 655,
+  "percentile_median": 0.5521,
+  "percentile_by_tier_median": {
+   "low": 0.4966,
+   "mid": 0.789,
+   "high": 0.5668
+  },
+  "spearman_sendorder_vs_index_same_block": null,
+  "spearman_tier_vs_index_same_block": null,
+  "n_same_block_groups": 0
+ },
+ "Firedancer": {
+  "n_landed": 38,
+  "n_blocks": 20,
+  "index_min": 4,
+  "index_max": 627,
+  "percentile_median": 0.5013,
+  "percentile_by_tier_median": {
+   "low": 0.6837,
+   "mid": 0.3183,
+   "high": 0.6113
+  },
+  "spearman_sendorder_vs_index_same_block": 0.8293,
+  "spearman_tier_vs_index_same_block": -0.2962,
+  "n_same_block_groups": 4
+ },
+ "HarmonicAgave": {
+  "n_landed": 46,
+  "n_blocks": 30,
+  "index_min": 8,
+  "index_max": 447,
+  "percentile_median": 0.4932,
+  "percentile_by_tier_median": {
+   "low": 0.2864,
+   "mid": 0.6045,
+   "high": 0.4932
+  },
+  "spearman_sendorder_vs_index_same_block": 0.5,
+  "spearman_tier_vs_index_same_block": 0.5,
+  "n_same_block_groups": 1
+ },
+ "HarmonicFiredancer": {
+  "n_landed": 20,
+  "n_blocks": 12,
+  "index_min": 15,
+  "index_max": 860,
+  "percentile_median": 0.4533,
+  "percentile_by_tier_median": {
+   "low": 0.3664,
+   "mid": 0.7238,
+   "high": 0.4496
+  },
+  "spearman_sendorder_vs_index_same_block": 0.4781,
+  "spearman_tier_vs_index_same_block": -0.239,
+  "n_same_block_groups": 2
+ },
+ "JitoLabs": {
+  "n_landed": 32,
+  "n_blocks": 25,
+  "index_min": 0,
+  "index_max": 838,
+  "percentile_median": 0.5213,
+  "percentile_by_tier_median": {
+   "low": 0.5213,
+   "mid": 0.4608,
+   "high": 0.6463
+  },
+  "spearman_sendorder_vs_index_same_block": null,
+  "spearman_tier_vs_index_same_block": null,
+  "n_same_block_groups": 0
+ },
+ "Rakurai": {
+  "n_landed": 3,
+  "n_blocks": 2,
+  "index_min": 23,
+  "index_max": 305,
+  "percentile_median": 0.1563,
+  "percentile_by_tier_median": {
+   "low": 0.054,
+   "mid": 0.716,
+   "high": 0.1563
+  },
+  "spearman_sendorder_vs_index_same_block": null,
+  "spearman_tier_vs_index_same_block": null,
+  "n_same_block_groups": 0
+ }
+}

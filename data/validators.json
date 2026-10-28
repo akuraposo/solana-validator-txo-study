@@ -1,0 +1,14 @@
+{
+  "comment": "Selected mainnet validators spanning 6+ distinct clients. Sources: stakewiz snapshot data/stakewiz.json (2026-10-28), all non-delinquent.",
+  "alpenglow_upgrade_date": "2026-10-21",
+  "measurement_period": "after Alpenglow (>= 2026-10-23)",
+  "selected": [
+    {"name": "Helius",              "client": "JitoLabs",            "version": "4.3.2",   "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU", "vote": "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk", "stake_sol": 16660000},
+    {"name": "Binance staking",     "client": "AgaveBam",            "version": "4.3.2",   "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy", "vote": "3N7s9zXMZ4QqvHQR15t5GNHyqc89KduzMP7423eWiD5g", "stake_sol": 12790000},
+    {"name": "Figment (HA)",        "client": "HarmonicAgave",       "version": "4.3.2",   "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk", "vote": "CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1", "stake_sol": 17010000},
+    {"name": "Jupiter (HFD)",       "client": "HarmonicFiredancer",  "version": "26.10.4", "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",  "vote": "CatzoSMUkTRidT5DwBxAC2pEtnwMBTpkCepHkFgZDiqb", "stake_sol": 9720000},
+    {"name": "Galaxy",              "client": "Firedancer",          "version": "26.10.4", "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY", "vote": "CvSb7wdQAFpHuSpTYTJnX5SYH4hCfQ9VuGnqrKaKwycB", "stake_sol": 7040000},
+    {"name": "(vanilla Agave)",     "client": "Agave",               "version": "4.3.2",   "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE", "vote": "8BMMDVM8Tb88a2Hx1VSZ1TKmH1rMHbVU7xVafMk9JrEW", "stake_sol": 1880000},
+    {"name": "Anagram Staking",     "client": "Rakurai",             "version": "4.3.2",   "identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY", "vote": "4AUED4uj6nSTuANzaAUnGBPJQRmhpDYDwoWJNkoUUBBW", "stake_sol": 2270000}
+  ]
+}
